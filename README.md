@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm UmaMaheshwari 🚀  
+## Hey there! 👋 I'm UmaMaheshwari  
 _Passionate Software Developer_
 
 <img align="right" width="270" height="270" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">
