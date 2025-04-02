@@ -43,7 +43,7 @@ _Passionate Software Developer_
 ---
 
 ## 🚀 **GitHub Stats & Activity**  
-![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umass250502&theme=dark&show_icons=true&hide=issues,contribs&hide_border=true)
+![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umass250502&theme=dark&show_icons=true&hide=issues,contribs&hide_border=true&cache_seconds=1800)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umass250502&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   -->
 
